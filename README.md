@@ -1,5 +1,5 @@
 ## git-tutorial
-Toy shell for git tutorial purposes
+Toy shell for git tutorial purposes, bla bla bla bla bla 
 
 Fork this repository, and then clone it by running the following command:
 
