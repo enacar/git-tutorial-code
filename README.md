@@ -1,5 +1,7 @@
 ## git-tutorial
-Toy shell for git tutorial purposes
+Toy shell for git tutorial purposes, bla bla bla bla bla 
+
+Mirko makes bad spaghetti!
 
 Fork this repository, and then clone it by running the following command:
 
@@ -27,4 +29,6 @@ Fork this repository, and then clone it by running the following command:
 
 ### Maintainers
 
-John Doe
+
+Slavko i Neko drugi
+
